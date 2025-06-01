@@ -1,0 +1,13 @@
+* {
+ font-family: Arial;;
+}
+.chicken {
+    color: palevioletred;
+   
+}
+.ingredients {
+    margin: auto;
+}
+.directions {
+    margin-top: 0px;
+}
